@@ -1,0 +1,5 @@
+[
+  {"caption": "RVM: Use System Ruby", "command": "enable_rvm", "args": {"type": 0}},
+  {"caption": "RVM: Use RVM Default Ruby", "command": "enable_rvm", "args": {"type": 1}},
+  {"caption": "RVM: Use RVM Auto Ruby", "command": "enable_rvm", "args": {"type": 2}}
+]

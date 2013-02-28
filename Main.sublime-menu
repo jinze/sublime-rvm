@@ -1,0 +1,17 @@
+[
+  {
+    "id": "tools",
+    "children":
+    [{
+      "caption": "RVM",
+      "mnemonic": "r",
+      "id":"rvm",
+      "children":
+      [
+        {"caption": "Use System Ruby", "command": "enable_rvm", "args": {"type": 0}},
+        {"caption": "Use RVM Default Ruby", "command": "enable_rvm", "args": {"type": 1}},
+        {"caption": "Use RVM Auto Ruby", "command": "enable_rvm", "args": {"type": 2}}
+      ]
+    }]
+  }
+]
